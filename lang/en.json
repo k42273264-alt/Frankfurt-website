@@ -1,0 +1,365 @@
+{
+  "index_meta_title": "Sunday Hotel Frankfurt Airport",
+  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel just 15 minutes from Frankfurt Airport. Comfortable rooms, meeting rooms, restaurant, sauna and free parking in Neu-Isenburg.",
+
+  "hero_title": "Sunday Hotel Frankfurt Airport",
+  "hero_subtitle": "Modern 4-star comfort just 15 minutes from Frankfurt Airport",
+  "hero_cta": "Book Your Stay",
+
+  "hero_slide2_title": "Comfortable Rooms & Suites",
+  "hero_slide2_desc": "Modern rooms with free Wi-Fi, tea/coffee facilities and excellent comfort.",
+  "hero_slide2_cta": "Explore Rooms",
+
+  "hero_slide3_title": "Meetings & Events",
+  "hero_slide3_desc": "7 modern meeting rooms for up to 170 guests.",
+  "hero_slide3_cta": "View Venues",
+
+  "quote_text": "Your ideal base for business and leisure – close to Frankfurt Airport and city centre.",
+
+  "highlights_label": "Highlights",
+  "highlight_rooms": "Rooms & Suites",
+  "highlight_meetings": "Meetings & Events",
+  "highlight_dining": "Dining",
+  "highlight_frankfurt": "Frankfurt & Region",
+
+  "discover_label": "Discover",
+  "discover_title": "Your Perfect Base Near Frankfurt Airport",
+  "discover_desc": "Relax at the contemporary 4-star Sunday Hotel Frankfurt Airport. Just 15 minutes from the airport and city centre, offering modern rooms, meeting facilities, restaurant and excellent transport connections.",
+  "discover_btn": "Learn More",
+
+  "accommodation_label": "Accommodation",
+  "accommodation_title": "Comfortable Rooms & Suites",
+  "accommodation_desc": "Settle into modern guest rooms with approximately 20 m² of space, complimentary tea & coffee, free Wi-Fi, flat-screen TV and individual climate control.",
+  "accommodation_btn": "View Rooms",
+
+  "wellness_label": "Wellness",
+  "wellness_title": "Relax and Recharge",
+  "wellness_desc": "Enjoy a workout in our MiniGym or unwind in the sauna after a long day of travel or meetings.",
+  "wellness_btn": "Discover Wellness",
+
+  "explore_label": "Explore the Region",
+
+  "getting_here_label": "Getting Here",
+  "getting_here_title": "Easy Access to Frankfurt Airport & City",
+
+  "by_air": "By Air",
+  "by_air_desc": "Only 15 minutes by taxi or shuttle from Frankfurt Airport.",
+  "by_car": "By Car",
+  "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Free outdoor parking available.",
+  "by_train": "By Train",
+  "by_train_desc": "Nearest station: Neu-Isenburg. Easy connection to Frankfurt city centre.",
+
+  "contact_page_title": "Contact Us | Sunday Hotel Frankfurt Airport",
+  "contact_meta_description": "Contact Sunday Hotel Frankfurt Airport. Get directions, phone, email and information for our hotel near Frankfurt Airport in Neu-Isenburg.",
+  "contact_hero_title": "Contact Us",
+  "contact_hero_desc": "We are happy to help you with any questions",
+  "contact_info_title": "Get in Touch",
+  "contact_address_label": "Address",
+  "contact_phone_label": "Phone",
+  "contact_email_label": "Email",
+  "contact_form_title": "Send us a Message",
+  "contact_name_placeholder": "Your Name",
+  "contact_email_placeholder": "Your Email",
+  "contact_message_placeholder": "Your Message",
+  "contact_send_btn": "Send Message",
+
+  "about_page_title": "About Us | Sunday Hotel Frankfurt Airport",
+  "about_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel located just 15 minutes from Frankfurt Airport and close to the city centre and Messe Frankfurt.",
+  "about_hero_title": "Sunday Hotel Frankfurt Airport",
+  "about_hero_desc": "Contemporary 4-star comfort just 15 minutes from Frankfurt Airport",
+
+  "about_section_story": "Our Story",
+  "about_story_title": "Welcome to Sunday Hotel Frankfurt Airport",
+  "about_location_title": "Perfect Location",
+  "about_location_desc": "Conveniently located in Neu-Isenburg, just 15 minutes by taxi from Frankfurt Airport and close to the A3, A5, and A661 motorways. Ideal for both business travellers and tourists exploring the Frankfurt Rhein-Main region.",
+  "about_comfort_title": "Modern Comfort",
+  "about_comfort_desc": "Settle into our contemporary guest rooms offering approx. 20 m² of space with free Wi-Fi, flat-screen TV, tea & coffee making facilities, and individual climate control.",
+
+  "about_values_label": "What We Offer",
+  "about_values_title": "Your Advantages at Sunday Hotel Frankfurt Airport",
+  "about_val1_title": "Airport Proximity",
+  "about_val1_desc": "Only 15 minutes from Frankfurt Airport with easy access to major motorways.",
+  "about_val2_title": "Meetings & Events",
+  "about_val2_desc": "7 modern, naturally lit meeting rooms for up to 170 guests.",
+  "about_val3_title": "Dining",
+  "about_val3_desc": "Amaroso Restaurant and sociable Lobby Bar with terrace dining in summer.",
+  "about_val4_title": "Wellness & Fitness",
+  "about_val4_desc": "MiniGym and sauna to help you relax after a busy day.",
+
+  "gallery_page_title": "Gallery | Sunday Hotel Frankfurt Airport",
+  "gallery_meta_description": "Gallery of Sunday Hotel Frankfurt Airport. View our modern rooms, meeting rooms, restaurant, sauna and hotel exterior near Frankfurt Airport.",
+  "gallery_title": "Our Gallery",
+  "gallery_desc": "Discover the modern comfort of Sunday Hotel Frankfurt Airport",
+  "gallery_cta": "Explore Gallery",
+  "gallery_label": "Moments Captured",
+  "gallery_heading": "Explore Our Hotel",
+  "gallery_all": "All",
+  "gallery_rooms_filter": "Rooms",
+  "gallery_meetings_filter": "Meetings",
+  "gallery_dining_filter": "Dining",
+  "gallery_exterior_filter": "Exterior",
+  "gallery_cta_title": "Experience Frankfurt with Us",
+  "gallery_cta_desc": "Stay close to the airport and enjoy modern comfort.",
+  "book_your_stay": "Book Your Stay",
+
+  "nav_about": "About",
+  "nav_story": "Our Story",
+  "nav_contact": "Contact Us",
+  "nav_gastronomy": "Dining",
+  "nav_meetings": "Meetings & Events",
+  "nav_rooms": "Rooms & Suites",
+  "nav_attractions": "Local Attractions",
+  "book_now": "Book Now",
+
+  "logo_alt": "Sunday Hotel Frankfurt Airport",
+
+  "newsletter": "Newsletter",
+  "newsletter_placeholder": "Your email address",
+  "subscribe": "Subscribe",
+  "contact_us": "Contact Us",
+  "quick_links": "Quick Links",
+  "footer_rooms": "Rooms & Suites",
+  "footer_meetings": "Meetings & Events",
+  "footer_dining": "Dining",
+  "footer_attractions": "Local Attractions",
+  "footer_copy": "© 2026 Sunday Hotel Frankfurt Airport. All rights reserved.",
+  "footer_terms": "Terms & Conditions",
+  "footer_sitemap": "Sitemap",
+
+"dining_page_title": "Dining | Sunday Hotel Frankfurt Airport",
+"dining_meta_description": "Dining at Sunday Hotel Frankfurt Airport – Enjoy Amaroso Restaurant with terrace, Lobby Bar and daily breakfast buffet near Frankfurt Airport.",
+
+
+"nav_gallery": "Gallery",
+"dining_title": "Dining & Bar",
+"dining_desc": "Delicious food and relaxed atmosphere near Frankfurt Airport",
+"dining_cta": "Learn More",
+
+"dining_label": "Dining",
+
+"dining_overview_title": "Amaroso Restaurant & Lobby Bar",
+"dining_overview_desc": "Enjoy fresh, seasonal cuisine at Amaroso Restaurant with terrace dining in summer. Relax with drinks and snacks in our sociable Lobby Bar.",
+
+"dining_restaurant_title": "Amaroso Restaurant",
+"dining_restaurant_desc": "Crisp white linen and candlelight create the perfect setting. Enjoy alfresco dining on the terrace in summer.",
+
+"dining_bar_title": "Lobby Bar",
+"dining_bar_hours": "6 pm – 11 pm",
+"dining_bar_desc": "Enjoy drinks, cocktails, snacks and watch live sports on the big screen in a relaxed atmosphere.",
+
+"dining_breakfast_title": "Breakfast",
+"dining_breakfast_hours": "6 am – 10 am",
+"dining_breakfast_desc": "Start your day with our varied breakfast buffet.",
+
+"dining_gallery_label": "Moments at the Table",
+"dining_gallery_title": "Our Restaurant & Bar",
+
+"dining_img1_alt": "Amaroso Restaurant",
+"dining_img2_alt": "Lobby Bar",
+"dining_img3_alt": "Breakfast Buffet",
+"dining_img4_alt": "Restaurant Terrace",
+
+"dining_cta_title": "Join Us for a Meal",
+"dining_cta_desc": "Delicious food and warm hospitality await you.",
+
+
+"rooms_meta_description": "Rooms & Suites at Sunday Hotel Frankfurt Airport – Comfortable air-conditioned rooms and suites near Frankfurt Airport and city centre.",
+
+"rooms_page_title": "Rooms & Suites | Sunday Hotel Frankfurt Airport",
+
+
+
+"rooms_hero_title": "Rooms & Suites",
+"rooms_hero_desc": "Comfortable stays near Frankfurt Airport",
+"rooms_hero_cta": "Explore Rooms",
+
+"rooms_label": "Accommodation",
+
+"rooms_overview_title": "Modern Comfort & Relaxation",
+
+"rooms_overview_desc": "Settle into comfortable guest rooms offering approximately 20 square metres of space with complimentary tea and coffee facilities, wireless internet, flat-screen TVs and individual climate control.",
+
+"rooms_types_label": "Room Types",
+"rooms_choose_title": "Choose Your Stay",
+
+"rooms_filter_all": "All Rooms",
+"rooms_filter_standard": "Standard",
+"rooms_filter_comfort": "Comfort",
+"rooms_filter_suite": "Suite",
+
+"standard_double_alt": "Standard Double Room",
+"standard_double_title": "Standard Double Room (Kingsize)",
+"standard_double_short": "Kingsize Bed • Sleeps 2",
+"standard_double_desc": "Comfortable guest room with tea & coffee facilities, flat-screen TV, WiFi and climate control.",
+
+"twin_room_alt": "Twin Room",
+"twin_room_title": "Standard Double Room (Twin)",
+"twin_room_short": "Twin Beds • Sleeps 2",
+"twin_room_desc": "Bright and practical twin room with modern amenities and comfortable interiors.",
+
+"comfort_room_alt": "Comfort Room",
+"comfort_room_title": "Comfort Double Room",
+"comfort_room_short": "Double Bed • Sleeps 2",
+"comfort_room_desc": "Spacious room with upgraded furnishings, work area and modern bathroom.",
+
+"suite_alt": "Suite",
+"suite_title": "Suite",
+"suite_short": "Premium Suite • Sleeps 2",
+"suite_desc": "Enjoy additional space, stylish interiors and premium comfort for a relaxing stay near Frankfurt Airport.",
+
+"view_details": "View Details",
+
+"rooms_cta_title": "Book Your Stay",
+"rooms_cta_desc": "Relax in contemporary comfort just minutes from Frankfurt Airport.",
+
+
+"meetings_page_title": "Meetings & Events | Sunday Hotel Frankfurt Airport",
+"meetings_meta_description": "Meetings & Events at Sunday Hotel Frankfurt Airport – 7 naturally lit meeting rooms for up to 170 guests near Frankfurt Airport, Messe Frankfurt and Neu-Isenburg.",
+
+"meetings_hero_title": "Meetings & Events",
+"meetings_hero_desc": "Flexible event spaces near Frankfurt Airport",
+"meetings_hero_cta": "Explore Our Venues",
+
+"meetings_label": "Meetings & Events",
+"meetings_overview_title": "Professional Events in Neu-Isenburg",
+"meetings_overview_desc": "Make use of 7 naturally lit meeting rooms at Sunday Hotel Frankfurt Airport. Located close to Frankfurt Airport, Messe Frankfurt and the A3, A5 and A661 motorways, our hotel is a practical choice for conferences, meetings, trainings and corporate events for up to 170 guests.",
+
+"venues_label": "Our Venues",
+"venues_title": "Flexible Meeting Rooms",
+
+"ground_floor": "Ground Floor",
+
+"schwechat_alt": "Schwechat Meeting Room",
+"schwechat_title": "Schwechat",
+"schwechat_desc": "Located on the ground floor with natural daylight and air-conditioning.",
+"schwechat_capacity": "25 Guests",
+
+"rhein_main_alt": "Rhein Main Meeting Room",
+"rhein_main_title": "Rhein Main",
+"rhein_main_desc": "Located on the ground floor with natural daylight and air-conditioning.",
+"rhein_main_capacity": "40 Guests",
+
+"shannon_alt": "Shannon Meeting Room",
+"shannon_title": "Shannon",
+"shannon_desc": "A compact meeting room with natural daylight and air-conditioning.",
+"shannon_capacity": "10 Guests",
+
+"orly_alt": "Orly Meeting Room",
+"orly_title": "Orly",
+"orly_desc": "A flexible meeting room on the ground floor with natural daylight and air-conditioning.",
+"orly_capacity": "50 Guests",
+
+"kloten_alt": "Kloten Meeting Room",
+"kloten_title": "Kloten",
+"kloten_desc": "Ideal for smaller meetings, located on the ground floor with natural daylight.",
+"kloten_capacity": "20 Guests",
+
+"heathrow_alt": "Heathrow Meeting Room",
+"heathrow_title": "Heathrow",
+"heathrow_desc": "A spacious meeting room suitable for larger meetings and business events.",
+"heathrow_capacity": "80 Guests",
+
+"schiphol_alt": "Schiphol Meeting Room",
+"schiphol_title": "Schiphol",
+"schiphol_desc": "A bright and flexible room for meetings, workshops and corporate events.",
+"schiphol_capacity": "60 Guests",
+
+"heathrow_schiphol_alt": "Heathrow and Schiphol Meeting Room",
+"heathrow_schiphol_title": "Heathrow + Schiphol",
+"heathrow_schiphol_desc": "Our largest combined meeting space for conferences and events of up to 170 guests.",
+"heathrow_schiphol_capacity": "170 Guests",
+
+"why_choose_label": "Why Choose Us",
+"amenities_title": "Everything You Need",
+
+"amenity_daylight_title": "Natural Daylight",
+"amenity_daylight_desc": "Bright meeting rooms designed for productive events.",
+
+"amenity_aircon_title": "Air-Conditioning",
+"amenity_aircon_desc": "Comfortable meeting spaces with air-conditioning.",
+
+"amenity_parking_title": "Parking",
+"amenity_parking_desc": "Complimentary outdoor parking available at the hotel.",
+
+"amenity_location_title": "Airport Location",
+"amenity_location_desc": "Close to Frankfurt Airport, Messe Frankfurt and major motorways.",
+
+"meetings_cta_title": "Plan Your Next Event",
+"meetings_cta_desc": "Contact our team for meetings, conferences and corporate events.",
+"enquire_now": "Enquire Now",
+
+
+"local_page_title": "Local Attractions | Sunday Hotel Frankfurt Airport",
+
+"local_meta_description": "Explore local attractions near Sunday Hotel Frankfurt Airport, including Frankfurt city centre, Römer, Museumsufer, Palmengarten, Frankfurt Airport, Mainz, Wiesbaden and Heidelberg.",
+
+"local_title": "Local Attractions",
+
+"local_desc": "Explore Frankfurt, Neu-Isenburg and the Rhein-Main region",
+
+"local_cta": "Discover Attractions",
+
+"local_overview_label": "Explore the Region",
+
+"local_overview_title": "Perfectly Placed for Business & Leisure",
+
+"local_overview_desc": "Neu-Isenburg is located only 15 minutes from Frankfurt Airport and the city centre, making Sunday Hotel Frankfurt Airport ideal for leisure guests as well as business travellers. Discover Frankfurt’s historic landmarks, museums, shopping areas, parks and nearby regional highlights.",
+
+"local_attractions_label": "Things To Do",
+
+"local_attractions_title": "Discover Frankfurt & Beyond",
+
+"roemer_alt": "Römer Frankfurt",
+"roemer_title": "Römer",
+"roemer_desc": "Frankfurt’s historic square and one of the city’s most recognisable landmarks.",
+
+"museumsufer_alt": "Museumsufer Frankfurt",
+"museumsufer_title": "Museumsufer",
+"museumsufer_desc": "Frankfurt’s famous museum district along the river Main, ideal for art, culture and history lovers.",
+
+"city_centre_alt": "Frankfurt City Centre",
+"city_centre_title": "Frankfurt City Centre",
+"city_centre_desc": "Discover cosmopolitan shops, restaurants, skyline views and the energy of central Frankfurt.",
+
+"main_tower_alt": "Main Tower Frankfurt",
+"main_tower_title": "Main Tower",
+"main_tower_desc": "Enjoy panoramic views from one of Frankfurt’s most famous skyscrapers.",
+
+"palmengarten_alt": "Palmengarten Frankfurt",
+"palmengarten_title": "Palmengarten",
+"palmengarten_desc": "A peaceful botanical garden with beautiful landscapes, greenhouses and seasonal displays.",
+
+"alte_oper_alt": "Alte Oper Frankfurt",
+"alte_oper_title": "Alte Oper Frankfurt",
+"alte_oper_desc": "Frankfurt’s elegant concert hall and a cultural highlight in the city centre.",
+
+"goethe_house_alt": "Goethe House Frankfurt",
+"goethe_house_title": "Goethe House",
+"goethe_house_desc": "Visit the birthplace of Johann Wolfgang von Goethe and explore Frankfurt’s literary heritage.",
+
+"airport_alt": "Frankfurt Airport",
+"airport_title": "Frankfurt Airport",
+"airport_desc": "One of Europe’s major international airports, easily accessible from the hotel.",
+
+"mainz_alt": "Mainz",
+"mainz_title": "Mainz",
+"mainz_desc": "Discover Mainz with its historic old town, cathedral and Gutenberg Museum.",
+
+"wiesbaden_alt": "Wiesbaden",
+"wiesbaden_title": "Wiesbaden",
+"wiesbaden_desc": "Visit Wiesbaden, famous for its elegant architecture, thermal springs and casino.",
+
+"heidelberg_alt": "Heidelberg",
+"heidelberg_title": "Heidelberg",
+"heidelberg_desc": "A romantic historic city with a famous castle, old town and riverside scenery.",
+
+"golf_alt": "Golf Club Neuhof",
+"golf_title": "Golf Club Neuhof e.V.",
+"golf_desc": "A popular nearby golf destination for guests looking to relax outdoors.",
+
+"local_cta_title": "Stay Close to Frankfurt",
+
+"local_cta_desc": "Enjoy airport convenience, city access and regional discoveries from Sunday Hotel Frankfurt Airport."
+
+
+}

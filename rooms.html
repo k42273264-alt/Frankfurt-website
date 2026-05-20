@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta
+      name="description"
+      data-key="rooms_meta_description"
+      content="Rooms & Suites at Sunday Hotel Frankfurt Airport – Comfortable air-conditioned rooms and suites near Frankfurt Airport and city centre."
+    />
+
+    <meta
+      name="keywords"
+      content="Sunday Hotel Frankfurt Airport rooms, Frankfurt Airport hotel rooms, suites Frankfurt, hotel Neu-Isenburg"
+    />
+
+    <meta name="author" content="Sunday Hotel Frankfurt Airport" />
+    <meta name="robots" content="index, follow" />
+
+    <title data-key="rooms_page_title">
+      Rooms & Suites | Sunday Hotel Frankfurt Airport
+    </title>
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="rooms.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@600&family=Lora:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!-- PRELOADER -->
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/output-onlinepngtools.png"
+              alt="Sunday Hotel Frankfurt Airport"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="dining.html" data-key="nav_gastronomy">Dining</a>
+                  </li>
+                  <!-- <li>
+                    <a href="meetings.html" data-key="nav_meetings"
+                      >Meetings & Events</a
+                    >
+                  </li> -->
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                <a href="rooms.html" data-key="nav_rooms">Rooms & Suites</a>
+              </li>
+              <li>
+                <a href="meetings.html" data-key="nav_meetings">Meetings</a>
+              </li>
+              <li>
+                <a href="local-attractions.html" data-key="nav_attractions"
+                  >Local Attractions</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section
+      class="hero-section"
+      style="
+        background-image: url(&quot;images/accomodation/premium queen.jpg&quot;);
+      "
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="rooms_hero_title">Rooms & Suites</h1>
+        <p data-key="rooms_hero_desc">
+          Comfortable stays near Frankfurt Airport
+        </p>
+        <a href="#rooms" class="btn-primary" data-key="rooms_hero_cta">
+          Explore Rooms
+        </a>
+      </div>
+    </section>
+
+    <!-- OVERVIEW -->
+    <section class="overview-section" id="overview">
+      <div class="section-label" data-key="rooms_label">Accommodation</div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="rooms_overview_title">Modern Comfort & Relaxation</h2>
+
+        <p data-key="rooms_overview_desc" data-animate>
+          Settle into comfortable guest rooms offering approximately 20 square
+          metres of space with complimentary tea and coffee facilities, wireless
+          internet, flat-screen TVs and individual climate control.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <!-- ROOM TYPES -->
+    <section class="rooms-section" id="rooms">
+      <div class="section-label" data-key="rooms_types_label">Room Types</div>
+
+      <h2 data-key="rooms_choose_title">Choose Your Stay</h2>
+
+      <div class="rooms-filter">
+        <button
+          class="filter-btn active"
+          data-filter="all"
+          data-key="rooms_filter_all"
+        >
+          All Rooms
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="standard"
+          data-key="rooms_filter_standard"
+        >
+          Standard
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="comfort"
+          data-key="rooms_filter_comfort"
+        >
+          Comfort
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="suite"
+          data-key="rooms_filter_suite"
+        >
+          Suite
+        </button>
+      </div>
+
+      <div class="rooms-container">
+        <!-- STANDARD DOUBLE -->
+        <div class="room-card" data-type="standard" data-animate>
+          <img
+            src="images/accomodation/standard-twin.jpg"
+            alt="Standard Double Room"
+            data-key-alt="standard_double_alt"
+            loading="lazy"
+          />
+
+          <h3 data-key="standard_double_title">
+            Standard Double Room (Kingsize)
+          </h3>
+
+          <p data-key="standard_double_short">Kingsize Bed • Sleeps 2</p>
+
+          <p data-key="standard_double_desc">
+            Comfortable guest room with tea & coffee facilities, flat-screen TV,
+            WiFi and climate control.
+          </p>
+
+          <!-- <button class="details-btn" data-key="view_details">
+            View Details
+          </button> -->
+        </div>
+
+        <!-- TWIN -->
+        <div class="room-card" data-type="standard" data-animate>
+          <img
+            src="images/accomodation/standard-room3.jpg"
+            alt="Twin Room"
+            data-key-alt="twin_room_alt"
+            loading="lazy"
+          />
+
+          <h3 data-key="twin_room_title">Standard Double Room (Twin)</h3>
+
+          <p data-key="twin_room_short">Twin Beds • Sleeps 2</p>
+
+          <p data-key="twin_room_desc">
+            Bright and practical twin room with modern amenities and comfortable
+            interiors.
+          </p>
+
+          <!-- <button class="details-btn" data-key="view_details">
+            View Details
+          </button> -->
+        </div>
+
+        <!-- COMFORT -->
+        <div class="room-card" data-type="comfort" data-animate>
+          <img
+            src="images/accomodation/premium queen.jpg"
+            alt="Comfort Room"
+            data-key-alt="comfort_room_alt"
+            loading="lazy"
+          />
+
+          <h3 data-key="comfort_room_title">Comfort Double Room</h3>
+
+          <p data-key="comfort_room_short">Double Bed • Sleeps 2</p>
+
+          <p data-key="comfort_room_desc">
+            Spacious room with upgraded furnishings, work area and modern
+            bathroom.
+          </p>
+
+          <!-- <button class="details-btn" data-key="view_details">
+            View Details
+          </button> -->
+        </div>
+
+        <!-- SUITE -->
+        <div class="room-card" data-type="suite" data-animate>
+          <img
+            src="images/accomodation/premium room.jpg"
+            alt="Suite"
+            data-key-alt="suite_alt"
+            loading="lazy"
+          />
+
+          <h3 data-key="suite_title">Suite</h3>
+
+          <p data-key="suite_short">Premium Suite • Sleeps 2</p>
+
+          <p data-key="suite_desc">
+            Enjoy additional space, stylish interiors and premium comfort for a
+            relaxing stay near Frankfurt Airport.
+          </p>
+
+          <!-- <button class="details-btn" data-key="view_details">
+            View Details
+          </button> -->
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="rooms_cta_title">Book Your Stay</h2>
+
+        <p data-key="rooms_cta_desc">
+          Relax in contemporary comfort just minutes from Frankfurt Airport.
+        </p>
+
+        <a href="#" class="btn-primary" data-key="book_now"> Book Now </a>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">
+            Contact Us
+          </a>
+
+          <address>
+            Sunday Hotel Frankfurt Airport<br />
+            Wernher-von-Braun-Strasse 12<br />
+            63263 Neu-Isenburg, Germany<br />
+            <a href="tel:+496961000">+49 6961 000</a><br />
+            <a href="mailto:reception.frankfurt@hotelssunday.com">
+              reception.frankfurt@hotelssunday.com
+            </a>
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="dining.html" data-key="footer_dining">Dining</a>
+            </li>
+            <li>
+              <a href="meetings.html" data-key="footer_meetings">
+                Meetings & Events
+              </a>
+            </li>
+            <li>
+              <a href="local-attractions.html" data-key="footer_attractions">
+                Local Attractions
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+
+          <form
+            action="https://formsubmit.co/sales.frankfurt@hotelssunday.com"
+            method="POST"
+            class="newsletter-form"
+          >
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              data-key-placeholder="newsletter_placeholder"
+            />
+
+            <button class="btn" type="submit" data-key="subscribe">
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Sunday Hotel Frankfurt Airport. All rights reserved.
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="rooms.js"></script>
+  </body>
+</html>

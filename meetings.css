@@ -1,0 +1,241 @@
+/* ======================
+   MEETINGS PAGE STYLES
+   ====================== */
+
+.hero-section {
+    position: relative;
+    height: 80vh;
+    max-height: 650px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: var(--header-height);
+}
+
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: -2;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(43, 78, 114, 0.45), rgba(212, 163, 115, 0.35));
+    z-index: -1;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 40px 30px;
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 12px;
+    max-width: 800px;
+    width: 90%;
+}
+
+.hero-content h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 5vw, 3.8rem);
+    margin-bottom: 15px;
+    text-shadow: 0 3px 8px rgba(0, 0, 0, 0.7);
+}
+
+.hero-content p {
+    font-family: 'Lora', serif;
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    margin-bottom: 25px;
+}
+
+/* Overview Section */
+.overview-section {
+    padding: 70px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.overview-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.overview-divider {
+    width: 80px;
+    height: 3px;
+    background: var(--accent-color);
+    margin: 25px auto;
+    border-radius: 3px;
+}
+
+.overview-container p[data-animate] {
+    font-family: 'Lora', serif;
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--dark-color);
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.6s ease;
+}
+
+.overview-container p[data-animate].visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Event Spaces */
+.event-spaces-section {
+    padding: 80px 20px;
+    background: #ffffff;
+    text-align: center;
+}
+
+.event-spaces-container {
+    max-width: 1300px;
+    margin: 40px auto 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.space-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: var(--shadow-light);
+    padding: 25px;
+    transition: all 0.4s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.space-card:hover {
+    transform: translateY(-12px);
+    box-shadow: var(--shadow-dark);
+}
+
+.space-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.space-card h3 {
+    font-family: 'Playfair Display', serif;
+    color: var(--primary-color);
+    margin-bottom: 12px;
+}
+
+.space-card p {
+    font-family: 'Lora', serif;
+    flex-grow: 1;
+    margin-bottom: 15px;
+}
+
+.room-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: auto;
+}
+
+.room-meta span {
+    background: #f5f7fa;
+    color: var(--primary-color);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* Amenities */
+.amenities-section {
+    padding: 70px 20px;
+    background-color: #f0f4f8;
+    text-align: center;
+}
+
+.amenities-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 25px;
+}
+
+.amenity-card {
+    background: #fff;
+    padding: 30px 20px;
+    border-radius: 12px;
+    box-shadow: var(--shadow-light);
+    transition: transform 0.3s;
+}
+
+.amenity-card:hover {
+    transform: translateY(-8px);
+}
+
+.amenity-card i {
+    font-size: 2.2rem;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+.amenity-card h3 {
+    font-family: 'Playfair Display', serif;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+/* CTA */
+.cta-section {
+    padding: 60px 20px;
+    background: var(--primary-color);
+    color: #fff;
+    text-align: center;
+}
+
+.cta-container {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.cta-container h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.2rem, 4vw, 2.8rem);
+    margin-bottom: 15px;
+}
+
+.cta-container p {
+    font-family: 'Lora', serif;
+    font-size: 1.15rem;
+    margin-bottom: 25px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .hero-section {
+        height: 60vh;
+    }
+
+    .event-spaces-container {
+        grid-template-columns: 1fr;
+    }
+
+    .amenities-container {
+        grid-template-columns: 1fr;
+    }
+}

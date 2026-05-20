@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="gallery_page_title">
+      Gallery | Sunday Hotel Frankfurt Airport
+    </title>
+
+    <meta
+      name="description"
+      data-key="gallery_meta_description"
+      content="Gallery of Sunday Hotel Frankfurt Airport. View our modern rooms, meeting rooms, restaurant, sauna and hotel exterior near Frankfurt Airport."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="gallery.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@600&family=Lora:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <!-- PRELOADER -->
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/output-onlinepngtools.png"
+              alt="Sunday Hotel Frankfurt Airport"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="dining.html" data-key="nav_gastronomy">Dining</a>
+                  </li>
+                  <!-- <li>
+                    <a href="meetings.html" data-key="nav_meetings"
+                      >Meetings & Events</a
+                    >
+                  </li> -->
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                <a href="rooms.html" data-key="nav_rooms">Rooms & Suites</a>
+              </li>
+              <li>
+                <a href="meetings.html" data-key="nav_meetings">Meetings</a>
+              </li>
+              <li>
+                <a href="local-attractions.html" data-key="nav_attractions"
+                  >Local Attractions</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a
+            href="https://booking.emea.hkclients.com/V2/index.html#/booking-classic/select-dates?pc=DEFRAM004"
+            class="btn-book"
+            data-key="book_now"
+            >Book Now</a
+          >
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero-section">
+      <img
+        src="images/facade/lobby.jpg"
+        alt="Sunday Hotel Frankfurt Airport"
+        data-key-alt="gallery_hero_img_alt"
+        class="hero-image"
+      />
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1 data-key="gallery_title">Our Gallery</h1>
+        <p data-key="gallery_desc">
+          Discover the modern comfort of Sunday Hotel Frankfurt Airport
+        </p>
+        <a href="#gallery" class="btn-primary" data-key="gallery_cta"
+          >Explore Gallery</a
+        >
+      </div>
+    </section>
+
+    <!-- GALLERY SECTION -->
+    <section class="gallery-section" id="gallery">
+      <div class="section-label" data-key="gallery_label">Moments Captured</div>
+      <h2 data-key="gallery_heading">Explore Our Hotel</h2>
+
+      <div class="gallery-filter">
+        <button
+          class="filter-btn active"
+          data-filter="all"
+          data-key="gallery_all"
+        >
+          All
+        </button>
+        <button
+          class="filter-btn"
+          data-filter="rooms"
+          data-key="gallery_rooms_filter"
+        >
+          Rooms
+        </button>
+        <button
+          class="filter-btn"
+          data-filter="meetings"
+          data-key="gallery_meetings_filter"
+        >
+          Meetings
+        </button>
+        <button
+          class="filter-btn"
+          data-filter="dining"
+          data-key="gallery_dining_filter"
+        >
+          Dining
+        </button>
+        <button
+          class="filter-btn"
+          data-filter="exterior"
+          data-key="gallery_exterior_filter"
+        >
+          Exterior
+        </button>
+      </div>
+
+      <div class="gallery-container">
+        <!-- Rooms -->
+        <div class="gallery-item" data-category="rooms">
+          <img
+            src="images/accomodation/standard-room.jpg"
+            alt="Standard Room"
+            data-key-alt="gallery_room1_alt"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item" data-category="rooms">
+          <img
+            src="images/accomodation/premium queen room.jpg"
+            alt="Comfort Room"
+            data-key-alt="gallery_room2_alt"
+            loading="lazy"
+          />
+        </div>
+
+        <!-- Meetings -->
+        <div class="gallery-item" data-category="meetings">
+          <img
+            src="images/meetings/meetings.jpg"
+            alt="Meeting Room"
+            data-key-alt="gallery_meeting1_alt"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item" data-category="meetings">
+          <img
+            src="images/meetings/871033047.jpg"
+            alt="Conference Setup"
+            data-key-alt="gallery_meeting2_alt"
+            loading="lazy"
+          />
+        </div>
+
+        <!-- Dining -->
+        <div class="gallery-item" data-category="dining">
+          <img
+            src="images/dining/871033037.jpg"
+            alt="Restaurant"
+            data-key-alt="gallery_dining1_alt"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item" data-category="dining">
+          <img
+            src="images/dining/bar.jpg"
+            alt="Lobby Bar"
+            data-key-alt="gallery_dining2_alt"
+            loading="lazy"
+          />
+        </div>
+
+        <!-- Exterior -->
+        <div class="gallery-item" data-category="exterior">
+          <img
+            src="images/facade/reception.jpg"
+            alt="Hotel Exterior"
+            data-key-alt="gallery_exterior1_alt"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item" data-category="exterior">
+          <img
+            src="images/facade/871033624.jpg"
+            alt="Near Airport"
+            data-key-alt="gallery_exterior2_alt"
+            loading="lazy"
+          />
+        </div>
+      </div>
+
+      <!-- Lightbox -->
+      <div class="lightbox" id="lightbox">
+        <div class="lightbox-content">
+          <span class="lightbox-close">&times;</span>
+          <img src="" alt="" id="lightboxImage" />
+          <p id="lightboxCaption"></p>
+          <button class="lightbox-prev">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <button class="lightbox-next">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="gallery_cta_title">Experience Frankfurt with Us</h2>
+        <p data-key="gallery_cta_desc">
+          Stay close to the airport and enjoy modern comfort.
+        </p>
+        <a
+          href="https://booking.emea.hkclients.com/V2/index.html#/booking-classic/select-dates?pc=DEFRAM004"
+          class="btn-primary"
+          data-key="book_your_stay"
+          >Book Your Stay</a
+        >
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us"
+            >Contact Us</a
+          >
+          <address>
+            Sunday Hotel Frankfurt Airport<br />
+            Wernher-von-Braun-Strasse 12<br />
+            63263 Neu-Isenburg, Germany<br />
+            <a href="tel:+496961000">+49 6961 000</a><br />
+            <a href="mailto:reception.frankfurt@hotelssunday.com"
+              >reception.frankfurt@hotelssunday.com</a
+            >
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_rooms">Rooms & Suites</a>
+            </li>
+            <li>
+              <a href="meetings.html" data-key="footer_meetings"
+                >Meetings & Events</a
+              >
+            </li>
+            <li>
+              <a href="gastronomy.html" data-key="footer_dining">Dining</a>
+            </li>
+            <li>
+              <a href="local-attractions.html" data-key="footer_attractions"
+                >Local Attractions</a
+              >
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+          <form
+            action="https://formsubmit.co/sales.frankfurt@hotelssunday.com"
+            method="POST"
+            class="newsletter-form"
+          >
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              data-key-placeholder="newsletter_placeholder"
+            />
+            <button class="btn" type="submit" data-key="subscribe">
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Sunday Hotel Frankfurt Airport. All rights reserved.
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="gallery.js"></script>
+  </body>
+</html>
