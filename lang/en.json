@@ -1,9 +1,7 @@
 {
   "index_meta_title": "Sunday Hotel Frankfurt Airport",
-  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel just 15 minutes from Frankfurt Airport. Comfortable rooms, meeting rooms, restaurant, sauna and free parking in Neu-Isenburg.",
 
   "hero_title": "Sunday Hotel Frankfurt Airport",
-  "hero_subtitle": "Modern 4-star comfort just 15 minutes from Frankfurt Airport",
   "hero_cta": "Book Your Stay",
 
   "hero_slide2_title": "Comfortable Rooms & Suites",
@@ -14,8 +12,6 @@
   "hero_slide3_desc": "7 modern meeting rooms for up to 170 guests.",
   "hero_slide3_cta": "View Venues",
 
-  "quote_text": "Your ideal base for business and leisure – close to Frankfurt Airport and city centre.",
-
   "highlights_label": "Highlights",
   "highlight_rooms": "Rooms & Suites",
   "highlight_meetings": "Meetings & Events",
@@ -24,7 +20,6 @@
 
   "discover_label": "Discover",
   "discover_title": "Your Perfect Base Near Frankfurt Airport",
-  "discover_desc": "Relax at the contemporary 4-star Sunday Hotel Frankfurt Airport. Just 15 minutes from the airport and city centre, offering modern rooms, meeting facilities, restaurant and excellent transport connections.",
   "discover_btn": "Learn More",
 
   "accommodation_label": "Accommodation",
@@ -43,7 +38,6 @@
   "getting_here_title": "Easy Access to Frankfurt Airport & City",
 
   "by_air": "By Air",
-  "by_air_desc": "Only 15 minutes by taxi or shuttle from Frankfurt Airport.",
   "by_car": "By Car",
   "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Free outdoor parking available.",
   "by_train": "By Train",
@@ -64,21 +58,18 @@
   "contact_send_btn": "Send Message",
 
   "about_page_title": "About Us | Sunday Hotel Frankfurt Airport",
-  "about_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel located just 15 minutes from Frankfurt Airport and close to the city centre and Messe Frankfurt.",
+
   "about_hero_title": "Sunday Hotel Frankfurt Airport",
-  "about_hero_desc": "Contemporary 4-star comfort just 15 minutes from Frankfurt Airport",
 
   "about_section_story": "Our Story",
   "about_story_title": "Welcome to Sunday Hotel Frankfurt Airport",
   "about_location_title": "Perfect Location",
-  "about_location_desc": "Conveniently located in Neu-Isenburg, just 15 minutes by taxi from Frankfurt Airport and close to the A3, A5, and A661 motorways. Ideal for both business travellers and tourists exploring the Frankfurt Rhein-Main region.",
   "about_comfort_title": "Modern Comfort",
   "about_comfort_desc": "Settle into our contemporary guest rooms offering approx. 20 m² of space with free Wi-Fi, flat-screen TV, tea & coffee making facilities, and individual climate control.",
 
   "about_values_label": "What We Offer",
   "about_values_title": "Your Advantages at Sunday Hotel Frankfurt Airport",
   "about_val1_title": "Airport Proximity",
-  "about_val1_desc": "Only 15 minutes from Frankfurt Airport with easy access to major motorways.",
   "about_val2_title": "Meetings & Events",
   "about_val2_desc": "7 modern, naturally lit meeting rooms for up to 170 guests.",
   "about_val3_title": "Dining",
@@ -303,8 +294,6 @@
 
 "local_overview_title": "Perfectly Placed for Business & Leisure",
 
-"local_overview_desc": "Neu-Isenburg is located only 15 minutes from Frankfurt Airport and the city centre, making Sunday Hotel Frankfurt Airport ideal for leisure guests as well as business travellers. Discover Frankfurt’s historic landmarks, museums, shopping areas, parks and nearby regional highlights.",
-
 "local_attractions_label": "Things To Do",
 
 "local_attractions_title": "Discover Frankfurt & Beyond",
@@ -359,7 +348,34 @@
 
 "local_cta_title": "Stay Close to Frankfurt",
 
-"local_cta_desc": "Enjoy airport convenience, city access and regional discoveries from Sunday Hotel Frankfurt Airport."
+"local_cta_desc": "Enjoy airport convenience, city access and regional discoveries from Sunday Hotel Frankfurt Airport.",
+
+"events_label": "Events",
+"events_title": "Perfect for Match Days & Concerts",
+"events_btn": "Plan Your Stay",
+
+  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt. Comfortable rooms, meeting rooms, restaurant, sauna and free parking in Neu-Isenburg.",
+
+  "hero_subtitle": "Modern 4-star comfort only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt.",
+
+  "quote_text": "Your ideal base for business, football weekends and concerts.",
+
+  "discover_desc": "Relax at the contemporary 4-star Sunday Hotel Frankfurt Airport. Only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt, the hotel is ideal for business travellers, football fans, concerts and major events in Frankfurt.",
+
+  "by_air_desc": "Only 13 minutes by taxi or shuttle from Frankfurt Airport.",
+
+  "about_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel located only 13 minutes from Frankfurt Airport and 12 minutes from the Stadium of Eintracht Frankfurt.",
+
+  "about_hero_desc": "Contemporary 4-star comfort only 13 minutes from Frankfurt Airport",
+
+  "about_location_desc": "Conveniently located in Neu-Isenburg, only 13 minutes by taxi from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt. Close to the A3, A5 and A661 motorways, ideal for business travellers, football fans and tourists exploring the Frankfurt Rhein-Main region.",
+
+  "about_val1_desc": "Only 13 minutes from Frankfurt Airport with easy access to major motorways and the Stadium of Eintracht Frankfurt.",
+
+  "local_overview_desc": "Neu-Isenburg is located only 13 minutes from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt, making Sunday Hotel Frankfurt Airport ideal for leisure guests, football fans and business travellers.",
+
+  "events_desc": "Stay only 12 minutes from the Stadium of Eintracht Frankfurt, making the hotel perfect for football matches, concerts and live events in Frankfurt."
+
 
 
 }
