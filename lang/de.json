@@ -1,9 +1,9 @@
 {
   "index_meta_title": "Sunday Hotel Frankfurt Airport",
-  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modernes 4-Sterne-Hotel nur 15 Minuten vom Flughafen Frankfurt entfernt. Komfortable Zimmer, Tagungsräume, Restaurant, Sauna und kostenloses Parken in Neu-Isenburg.",
+  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modernes 4-Sterne-Hotel nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt. Komfortable Zimmer, Tagungsräume, Restaurant und Sauna in Neu-Isenburg.",
 
   "hero_title": "Sunday Hotel Frankfurt Airport",
-  "hero_subtitle": "Modernes 4-Sterne-Komfort nur 15 Minuten vom Flughafen Frankfurt",
+  "hero_subtitle": "Moderner 4-Sterne-Komfort nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt.",
   "hero_cta": "Jetzt buchen",
 
   "hero_slide2_title": "Komfortable Zimmer & Suiten",
@@ -14,7 +14,7 @@
   "hero_slide3_desc": "7 moderne Tagungsräume für bis zu 170 Gäste.",
   "hero_slide3_cta": "Räume ansehen",
 
-  "quote_text": "Ihre ideale Basis für Geschäfts- und Freizeitreisende – nah am Flughafen und der Innenstadt.",
+  "quote_text": "Ihre ideale Basis für Geschäftsreisen, Fußballwochenenden und Konzerte – nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt.",
 
   "highlights_label": "Highlights",
   "highlight_rooms": "Zimmer & Suiten",
@@ -24,7 +24,7 @@
 
   "discover_label": "Entdecken",
   "discover_title": "Ihre perfekte Basis nahe dem Flughafen Frankfurt",
-  "discover_desc": "Entspannen Sie im modernen 4-Sterne Sunday Hotel Frankfurt Airport. Nur 15 Minuten vom Flughafen und der Innenstadt entfernt mit modernen Zimmern, Tagungsräumen, Restaurant und sehr guter Verkehrsanbindung.",
+  "discover_desc": "Entspannen Sie im modernen 4-Sterne Sunday Hotel Frankfurt Airport. Nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt – ideal für Geschäftsreisende, Fußballfans, Konzertbesucher und Events in Frankfurt.",
   "discover_btn": "Mehr erfahren",
 
   "accommodation_label": "Unterkunft",
@@ -43,9 +43,9 @@
   "getting_here_title": "Einfache Anreise zum Flughafen Frankfurt und in die Stadt",
 
   "by_air": "Mit dem Flugzeug",
-  "by_air_desc": "Nur 15 Minuten mit Taxi oder Shuttle vom Flughafen Frankfurt.",
+  "by_air_desc": "Nur 13 Minuten mit Taxi oder Shuttle vom Flughafen Frankfurt.",
   "by_car": "Mit dem Auto",
-  "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Kostenloses Außenparkplatz verfügbar.",
+  "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Außenparkplätze verfügbar.",
   "by_train": "Mit dem Zug",
   "by_train_desc": "Nächster Bahnhof: Neu-Isenburg. Gute Verbindung ins Frankfurter Stadtzentrum.",
 
@@ -64,27 +64,26 @@
   "contact_send_btn": "Nachricht senden",
 
   "about_page_title": "Über uns | Sunday Hotel Frankfurt Airport",
-  "about_meta_description": "Sunday Hotel Frankfurt Airport – Modernes 4-Sterne-Hotel nur 15 Minuten vom Flughafen Frankfurt und nahe der Innenstadt und Messe Frankfurt.",
+  "about_meta_description": "Sunday Hotel Frankfurt Airport – Modernes 4-Sterne-Hotel nur 13 Minuten vom Flughafen Frankfurt und nahe der Innenstadt und Messe Frankfurt.",
   "about_hero_title": "Sunday Hotel Frankfurt Airport",
-  "about_hero_desc": "Zeitgemäßer 4-Sterne-Komfort nur 15 Minuten vom Flughafen Frankfurt",
+  "about_hero_desc": "Zeitgemäßer 4-Sterne-Komfort nur 13 Minuten vom Flughafen Frankfurt",
 
   "about_section_story": "Unsere Geschichte",
   "about_story_title": "Willkommen im Sunday Hotel Frankfurt Airport",
   "about_location_title": "Perfekte Lage",
-  "about_location_desc": "Praktisch gelegen in Neu-Isenburg, nur 15 Minuten mit dem Taxi vom Flughafen Frankfurt und nahe der A3, A5 und A661. Ideal für Geschäftsreisende und Touristen.",
+  "about_location_desc": "Praktisch gelegen in Neu-Isenburg, nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt. In der Nähe der Autobahnen A3, A5 und A661 – ideal für Geschäftsreisende, Fußballfans und Konzertbesucher.",
   "about_comfort_title": "Moderner Komfort",
   "about_comfort_desc": "Lassen Sie sich in unseren modernen Gästezimmern nieder. Ca. 20 m² mit kostenlosem WLAN, Flachbild-TV, Tee-/Kaffeezubereitung und individueller Klimaanlage.",
 
   "about_values_label": "Was wir bieten",
   "about_values_title": "Ihre Vorteile im Sunday Hotel Frankfurt Airport",
   "about_val1_title": "Flughafennähe",
-  "about_val1_desc": "Nur 15 Minuten vom Flughafen Frankfurt mit guter Anbindung an die Autobahnen.",
+  "about_val1_desc": "Nur 13 Minuten vom Flughafen Frankfurt mit guter Anbindung an die Autobahnen.",
   "about_val2_title": "Tagungen & Events",
   "about_val2_desc": "7 moderne, tageslichtdurchflutete Tagungsräume für bis zu 170 Gäste.",
   "about_val3_title": "Gastronomie",
   "about_val3_desc": "Amaroso Restaurant und gesellige Lobby Bar mit Terrasse im Sommer.",
-  "about_val4_title": "Wellness & Fitness",
-  "about_val4_desc": "MiniGym und Sauna zum Entspannen nach einem langen Tag.",
+  
 
   "gallery_page_title": "Galerie | Sunday Hotel Frankfurt Airport",
   "gallery_meta_description": "Galerie des Sunday Hotel Frankfurt Airport. Sehen Sie moderne Zimmer, Tagungsräume, Restaurant, Sauna und Hotelfassade nahe dem Flughafen Frankfurt.",
@@ -266,20 +265,17 @@
 "heathrow_schiphol_desc": "Unser größter kombinierter Tagungsraum für Konferenzen und Events mit bis zu 170 Gästen.",
 "heathrow_schiphol_capacity": "170 Gäste",
 
-"why_choose_label": "Warum Uns Wählen",
-"amenities_title": "Alles, Was Sie Brauchen",
+"why_choose_label": "Warum Bei Uns Übernachten",
+"amenities_title": "Ideal für Geschäfts- & Eventreisen",
 
-"amenity_daylight_title": "Tageslicht",
-"amenity_daylight_desc": "Helle Tagungsräume für produktive Veranstaltungen.",
+"amenity_daylight_title": "Moderne Tagungsräume",
+"amenity_daylight_desc": "7 tageslichtdurchflutete Räume für Meetings, Konferenzen und Firmenevents.",
 
-"amenity_aircon_title": "Klimaanlage",
-"amenity_aircon_desc": "Komfortable Tagungsräume mit Klimaanlage.",
+"amenity_aircon_title": "Ausgezeichnete Lage",
+"amenity_aircon_desc": "Nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt.",
 
-"amenity_parking_title": "Parkplätze",
-"amenity_parking_desc": "Kostenlose Außenparkplätze am Hotel verfügbar.",
-
-"amenity_location_title": "Flughafennähe",
-"amenity_location_desc": "Nahe dem Flughafen Frankfurt, der Messe Frankfurt und wichtigen Autobahnen.",
+"amenity_location_title": "Restaurant & Lobby Bar",
+"amenity_location_desc": "Genießen Sie Speisen im Amaroso Restaurant und Getränke in unserer entspannten Lobby Bar.",
 
 "meetings_cta_title": "Planen Sie Ihr Nächstes Event",
 "meetings_cta_desc": "Kontaktieren Sie unser Team für Meetings, Konferenzen und Firmenevents.",
@@ -298,9 +294,9 @@
 
 "local_overview_label": "Die Region Entdecken",
 
-"local_overview_title": "Perfekt für Geschäfts- & Freizeitreisen",
+"local_overview_title": "Perfekt für Geschäftsreisen, Events & Freizeit",
 
-"local_overview_desc": "Neu-Isenburg liegt nur 15 Minuten vom Flughafen Frankfurt und der Innenstadt entfernt und macht das Sunday Hotel Frankfurt Airport ideal für Freizeit- und Geschäftsreisende. Entdecken Sie historische Sehenswürdigkeiten, Museen, Einkaufsmöglichkeiten, Parks und regionale Highlights rund um Frankfurt.",
+"local_overview_desc": "Neu-Isenburg liegt nur 13 Minuten vom Flughafen Frankfurt und 12 Minuten vom Stadion von Eintracht Frankfurt entfernt. Das Sunday Hotel Frankfurt Airport ist ideal für Geschäftsreisende, Fußballfans, Konzertbesucher und Freizeitreisende.",
 
 "local_attractions_label": "Freizeit & Aktivitäten",
 
@@ -360,7 +356,7 @@
 
 "events_label": "Events",
 "events_title": "Perfekt für Spieltage & Konzerte",
-"events_desc": "Übernachten Sie nur 12 Minuten vom Stadion von Eintracht Frankfurt entfernt – einer der führenden Veranstaltungsorte Deutschlands für Fußballspiele, Konzerte und Live-Events.",
+"events_desc": "Übernachten Sie nur 12 Minuten vom Stadion von Eintracht Frankfurt entfernt – perfekt für Fußballspiele, Konzerte und Live-Events in Frankfurt.",
 "events_btn": "Aufenthalt planen"
 
 }

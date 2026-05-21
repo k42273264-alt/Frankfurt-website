@@ -32,14 +32,14 @@
   "wellness_desc": "Enjoy a workout in our MiniGym or unwind in the sauna after a long day of travel or meetings.",
   "wellness_btn": "Discover Wellness",
 
-  "explore_label": "Explore the Region",
+  "explore_label": "Explore Frankfurt",
 
   "getting_here_label": "Getting Here",
   "getting_here_title": "Easy Access to Frankfurt Airport & City",
 
   "by_air": "By Air",
   "by_car": "By Car",
-  "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Free outdoor parking available.",
+  "by_car_desc": "Wernher-von-Braun-Strasse 12, 63263 Neu-Isenburg. Outdoor parking available.",
   "by_train": "By Train",
   "by_train_desc": "Nearest station: Neu-Isenburg. Easy connection to Frankfurt city centre.",
 
@@ -74,11 +74,10 @@
   "about_val2_desc": "7 modern, naturally lit meeting rooms for up to 170 guests.",
   "about_val3_title": "Dining",
   "about_val3_desc": "Amaroso Restaurant and sociable Lobby Bar with terrace dining in summer.",
-  "about_val4_title": "Wellness & Fitness",
-  "about_val4_desc": "MiniGym and sauna to help you relax after a busy day.",
+  
 
   "gallery_page_title": "Gallery | Sunday Hotel Frankfurt Airport",
-  "gallery_meta_description": "Gallery of Sunday Hotel Frankfurt Airport. View our modern rooms, meeting rooms, restaurant, sauna and hotel exterior near Frankfurt Airport.",
+  "gallery_meta_description": "Gallery of Sunday Hotel Frankfurt Airport. View our modern rooms, meeting rooms, restaurant and hotel exterior near Frankfurt Airport.",
   "gallery_title": "Our Gallery",
   "gallery_desc": "Discover the modern comfort of Sunday Hotel Frankfurt Airport",
   "gallery_cta": "Explore Gallery",
@@ -140,7 +139,7 @@
 
 "dining_breakfast_title": "Breakfast",
 "dining_breakfast_hours": "6 am – 10 am",
-"dining_breakfast_desc": "Start your day with our varied breakfast buffet.",
+"dining_breakfast_desc": "Enjoy our daily breakfast buffet served from 6 am to 10 am.",
 
 "dining_gallery_label": "Moments at the Table",
 "dining_gallery_title": "Our Restaurant & Bar",
@@ -201,7 +200,7 @@
 "view_details": "View Details",
 
 "rooms_cta_title": "Book Your Stay",
-"rooms_cta_desc": "Relax in contemporary comfort just minutes from Frankfurt Airport.",
+"rooms_cta_desc": "Relax in contemporary comfort only 13 minutes from Frankfurt Airport.",
 
 
 "meetings_page_title": "Meetings & Events | Sunday Hotel Frankfurt Airport",
@@ -260,20 +259,17 @@
 "heathrow_schiphol_desc": "Our largest combined meeting space for conferences and events of up to 170 guests.",
 "heathrow_schiphol_capacity": "170 Guests",
 
-"why_choose_label": "Why Choose Us",
-"amenities_title": "Everything You Need",
+"why_choose_label": "Why Stay With Us",
+"amenities_title": "Designed for Business & Event Travel",
 
-"amenity_daylight_title": "Natural Daylight",
-"amenity_daylight_desc": "Bright meeting rooms designed for productive events.",
+"amenity_daylight_title": "Modern Meeting Spaces",
+"amenity_daylight_desc": "7 naturally lit meeting rooms for conferences, trainings and corporate events.",
 
-"amenity_aircon_title": "Air-Conditioning",
-"amenity_aircon_desc": "Comfortable meeting spaces with air-conditioning.",
+"amenity_aircon_title": "Excellent Location",
+"amenity_aircon_desc": "Only 13 minutes from Frankfurt Airport and 12 minutes from the Stadium of Eintracht Frankfurt.",
 
-"amenity_parking_title": "Parking",
-"amenity_parking_desc": "Complimentary outdoor parking available at the hotel.",
-
-"amenity_location_title": "Airport Location",
-"amenity_location_desc": "Close to Frankfurt Airport, Messe Frankfurt and major motorways.",
+"amenity_location_title": "Restaurant & Lobby Bar",
+"amenity_location_desc": "Enjoy dining at Amaroso Restaurant and drinks in our relaxed Lobby Bar.",
 
 "meetings_cta_title": "Plan Your Next Event",
 "meetings_cta_desc": "Contact our team for meetings, conferences and corporate events.",
@@ -292,7 +288,7 @@
 
 "local_overview_label": "Explore the Region",
 
-"local_overview_title": "Perfectly Placed for Business & Leisure",
+"local_overview_title": "Perfectly Located for Business, Events & Leisure",
 
 "local_attractions_label": "Things To Do",
 
@@ -354,11 +350,11 @@
 "events_title": "Perfect for Match Days & Concerts",
 "events_btn": "Plan Your Stay",
 
-  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt. Comfortable rooms, meeting rooms, restaurant, sauna and free parking in Neu-Isenburg.",
+  "index_meta_description": "Sunday Hotel Frankfurt Airport – Modern 4-star hotel only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt. Comfortable rooms, meeting rooms, restaurant and sauna in Neu-Isenburg.",
 
   "hero_subtitle": "Modern 4-star comfort only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt.",
 
-  "quote_text": "Your ideal base for business, football weekends and concerts.",
+  "quote_text": "Your ideal base for business, football weekends and concerts – only 13 minutes from Frankfurt Airport and 12 minutes from the Stadium of Eintracht Frankfurt.",
 
   "discover_desc": "Relax at the contemporary 4-star Sunday Hotel Frankfurt Airport. Only 13 minutes away from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt, the hotel is ideal for business travellers, football fans, concerts and major events in Frankfurt.",
 
@@ -372,7 +368,7 @@
 
   "about_val1_desc": "Only 13 minutes from Frankfurt Airport with easy access to major motorways and the Stadium of Eintracht Frankfurt.",
 
-  "local_overview_desc": "Neu-Isenburg is located only 13 minutes from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt, making Sunday Hotel Frankfurt Airport ideal for leisure guests, football fans and business travellers.",
+  "local_overview_desc": "Neu-Isenburg is located only 13 minutes from Frankfurt Airport and only 12 minutes from the Stadium of Eintracht Frankfurt, making Sunday Hotel Frankfurt Airport ideal for business travellers, football fans, concert visitors and leisure guests.",
 
   "events_desc": "Stay only 12 minutes from the Stadium of Eintracht Frankfurt, making the hotel perfect for football matches, concerts and live events in Frankfurt."
 
